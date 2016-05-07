@@ -7,8 +7,8 @@ import 'dart:io';
 List<String> imageFiles;
 Map<String, String> webFiles;
 
-// Update this path to reflect you system.
-const String thePNGPath = "/home/daftspaniel/.minecraft/screenshots";
+// Update this path to reflect your system.
+const String thePNGPath = "/home/user/.minecraft/screenshots";
 
 void main() {
   webFiles = new Map();
